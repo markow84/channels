@@ -1,0 +1,9 @@
+vatiaz\chaneels\main\Main.class
+vatiaz\chaneels\Utils\EnderChest.class
+vatiaz\chaneels\commands\ch.class
+vatiaz\chaneels\guis\chgui.class
+vatiaz\chaneels\events\GuiClick.class
+vatiaz\chaneels\events\JoinQuitEvent.class
+vatiaz\chaneels\mysql\mysql.class
+vatiaz\chaneels\managers\SendServer.class
+vatiaz\chaneels\Utils\Util.class

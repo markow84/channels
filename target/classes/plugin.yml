@@ -1,0 +1,7 @@
+name: Chaneels
+version: '1.0-SNAPSHOT'
+main: vatiaz.chaneels.main.Main
+api-version: '1.16'
+author: Vatiaz
+commands:
+  ch:
